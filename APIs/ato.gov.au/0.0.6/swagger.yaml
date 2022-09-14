@@ -103,7 +103,7 @@ info:
   x-apisguru-categories:
     - financial
   x-logo:
-    backgroundColor: "#D3D3D3"
+    #backgroundColor: "#D3D3D3"
     url: https://www.ato.gov.au/uploadedImages/Content/_DEM/Images/logo-ato.png
   x-origin:
     - format: swagger
